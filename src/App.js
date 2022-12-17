@@ -1,14 +1,15 @@
 import React, { useRef, useState, useEffect } from "react";
-import * as tf from "@tensorflow/tfjs";
+
 import * as cocossd from "@tensorflow-models/coco-ssd";
 import Webcam from "react-webcam";
 import "./App.css";
 import { drawRect } from "./utilities";
-import { div } from "@tensorflow/tfjs";
+//import { div } from "@tensorflow/tfjs";
 import Navbar from "./components/Navbar";
 import Alert from "./components/Alert";
 import Output from "./components/Output";
 import Footer from "./components/footer";
+import Border from "./components/Border";
 
 
 function App() {
@@ -48,6 +49,7 @@ function App() {
     <>
     <Navbar title = "Vision Sehyog-Vision Aid using A.I" />
     <Alert/>
+    <Border/>
     
     <div className="App">
       
