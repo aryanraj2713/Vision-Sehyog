@@ -1074,6 +1074,13 @@
   "resolved" "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz"
   "version" "0.2.3"
 
+"@coreui/coreui@^4.2.4":
+  "integrity" "sha512-ENXa+SJab0Wv4TggVmY2umrWKEapWaCYPDwfdxGWd9SywsJX16R35lejpeSaHSZpgTZq+8WlFu/AyOhI1M/d9A=="
+  "resolved" "https://registry.npmjs.org/@coreui/coreui/-/coreui-4.2.4.tgz"
+  "version" "4.2.4"
+  dependencies:
+    "postcss-combine-duplicated-selectors" "^10.0.3"
+
 "@csstools/normalize.css@*":
   "integrity" "sha512-M0qqxAcwCsIVfpFQSlGN5XjXWu8l5JDZN+fPt1LeW5SZexQTgnaEvgXAY+CeygRw0EeppWHi12JxESWiWrB0Sg=="
   "resolved" "https://registry.npmjs.org/@csstools/normalize.css/-/normalize.css-12.0.0.tgz"
@@ -1568,6 +1575,11 @@
     "loader-utils" "^2.0.4"
     "schema-utils" "^3.0.0"
     "source-map" "^0.7.3"
+
+"@popperjs/core@^2.11.6":
+  "integrity" "sha512-50/17A98tWUfQ176raKiOGXuYpLyyVMkxxG6oylzL3BPOlA6ADGdK7EYunSa4I064xerltq9TGXs8HmOk5E+vw=="
+  "resolved" "https://registry.npmjs.org/@popperjs/core/-/core-2.11.6.tgz"
+  "version" "2.11.6"
 
 "@rollup/plugin-babel@^5.2.0":
   "integrity" "sha512-WFfdLWU/xVWKeRQnKmIAQULUI7Il0gZnBIH/ZFO069wYIfPu+8zrfp/KMW0atmELoRDq8FbiP3VCss9MhCut7Q=="
@@ -6824,6 +6836,13 @@
     "caniuse-api" "^3.0.0"
     "colord" "^2.9.1"
     "postcss-value-parser" "^4.2.0"
+
+"postcss-combine-duplicated-selectors@^10.0.3":
+  "integrity" "sha512-IP0BmwFloCskv7DV7xqvzDXqMHpwdczJa6ZvIW8abgHdcIHs9mCJX2ltFhu3EwA51ozp13DByng30+Ke+eIExA=="
+  "resolved" "https://registry.npmjs.org/postcss-combine-duplicated-selectors/-/postcss-combine-duplicated-selectors-10.0.3.tgz"
+  "version" "10.0.3"
+  dependencies:
+    "postcss-selector-parser" "^6.0.4"
 
 "postcss-convert-values@^5.1.3":
   "integrity" "sha512-82pC1xkJZtcJEfiLw6UXnXVXScgtBrjlO5CBmuDQc+dlb88ZYheFsjTn40+zBVi3DkfF7iezO0nJUPLcJK3pvA=="

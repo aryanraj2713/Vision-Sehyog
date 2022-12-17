@@ -8,6 +8,7 @@ import { div } from "@tensorflow/tfjs";
 import Navbar from "./components/Navbar";
 import Alert from "./components/Alert";
 import Output from "./components/Output";
+import Footer from "./components/footer";
 
 
 function App() {
@@ -85,6 +86,7 @@ function App() {
         />
       </header>
       <Output/>
+      <Footer/>
 
     </div>
     </>

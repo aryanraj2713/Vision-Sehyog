@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@coreui/coreui": "^4.2.4",
     "@tensorflow-models/coco-ssd": "^2.1.0",
     "@tensorflow/tfjs": "^2.4.0",
     "@testing-library/jest-dom": "^4.2.4",
