@@ -38,6 +38,77 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
 
 
 
+## Authors  -
+<div align="left"> 
+  <table>
+<tr align="left">
+ <td>
+
+#### Aryan Raj
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>ML , CV and Front-end Developer<strong>
+</td>
+
+
+ <td>
+
+#### Astitva Veer Garg
+<p align="center">
+<img src = "https://media.licdn.com/dms/image/C4E03AQFDbHC7NpKhsA/profile-displayphoto-shrink_400_400/0/1633725631500?e=1677110400&v=beta&t=18Au0dM34lh2RWRgDn-3mAWSlUIhAJUZ-UPo1tPxI68"  height="120" alt="Astitva">
+</p>
+<p align="center">
+<a href = "https://github.com/astitvaveergarg"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/astitva-veer-garg/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>ML and Backend Developer<strong>
+
+
+   
+
+ <td>
+
+#### Arnav Sharma
+<p align="center">
+<img src = "https://media.licdn.com/dms/image/D5635AQHnmEJ2yM5SQA/profile-framedphoto-shrink_800_800/0/1671338254256?e=1671948000&v=beta&t=fLsxj6cNEK0BFOllpaJDVkUGc5V2H7WbnvyGGVJxIgs"  height="120" alt="Arnav">
+</p>
+<p align="center">
+<a href = "https://github.com/Arnav131003"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/arnav-sharma-027a21204/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>M.L and Python Developer<strong>
+</td>
+  <td>
+  
+#### Aakash .
+<p align="center">
+<img src = ""  height="120" alt="Sittu">
+</p>
+<p align="center">
+<a href = "https://github.com/Aakash-sittu"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aakash-sittu/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>Web and IoT Developer<strong>
+</td>
+
+
+  
+
+</tr>
+</div>
 
 
 
@@ -73,13 +144,5 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
 
 
 
- <div align="left">
- <p>
- <br>
-   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="28"/><br>
-   <br><strong>AIRoadGuard</strong> is under MIT License, Please Read the <strong>LICENSE</strong>
-  <p>
- </div>
- <br>
 
 
