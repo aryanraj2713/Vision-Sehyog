@@ -40,6 +40,7 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
 -
 -
 -
+-
 
 
 
