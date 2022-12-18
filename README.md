@@ -38,10 +38,10 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
 
 
 
-## Authors  -
-<div align="left"> 
+## Licence and Developers information  -
+<div align="center"> 
   <table>
-<tr align="left">
+<tr align="center">
  <td>
 
 #### Aryan Raj
@@ -107,10 +107,16 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
 
   
 
-</tr>
 </div>
 
 
+ <div align="left">
+ <p>
+ <br>
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="28"/><br>
+   <br><strong>AIRoadGuard</strong> is under MIT License, Please Read the <strong>LICENSE</strong>
+  <p>
+ </div>
 
 
 
