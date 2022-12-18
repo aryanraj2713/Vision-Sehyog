@@ -21,3 +21,65 @@ The YOLO architecture has several key features that contribute to its efficiency
 - Anchor boxes: YOLO uses anchor boxes to handle objects of different shapes and sizes. Anchor boxes are predefined bounding boxes that are used as references to predict the locations and sizes of objects in the image.
 
 Overall, the YOLO architecture is a fast and effective solution for object detection tasks, and has been widely adopted in a variety of applications
+
+## Technologies we used
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap ](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+
+## React web-app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div align="left">
+ <p>
+ <br>
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="28"/><br>
+   <br><strong>AIRoadGuard</strong> is under MIT License, Please Read the <strong>LICENSE</strong>
+  <p>
+ </div>
+ <br>
+
+
