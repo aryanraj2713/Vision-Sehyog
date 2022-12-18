@@ -97,7 +97,7 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
   
 #### Aakash .
 <p align="center">
-<img src = ""  height="120" alt="Sittu">
+<img src = "https://instagram.fdel34-1.fna.fbcdn.net/v/t51.2885-19/308351708_212532574437062_3993534704248302913_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fdel34-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KZ1yvcEOg1IAX8kf382&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCz4RqEDr2v4IAcPsVa8Nem_g-GjTgs3B3dORdAolUZmA&oe=63A2DBF0&_nc_sid=1527a3"  height="120" alt="Sittu">
 </p>
 <p align="center">
 <a href = "https://github.com/Aakash-sittu"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
