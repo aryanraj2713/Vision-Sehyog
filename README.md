@@ -5,7 +5,7 @@ Vision-Sehyog is a powerful and innovative application that uses the latest tech
 ## Important Links
 - [Demo Video]()
 - [Presentation]()
-- [Download Model Weights]()
+- [Download Model Weights](https://drive.google.com/drive/folders/12GyDNU2MHM7ydQY90cqc0nYUS0qGxpPl?usp=sharing)
 
 
 ## Deep-Learning model - YOLO v5
