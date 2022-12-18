@@ -1,5 +1,8 @@
 # Vision-Sehyog
 
+![banner](https://user-images.githubusercontent.com/75358720/208289360-cb7be273-77b9-45fb-983c-e04d284101c5.png)
+
+
 Vision-Sehyog is a powerful and innovative application that uses the latest technologies in computer vision and text-to-speech to assist the visually impaired. The use of the React.js framework and YOLO model allows the application to run smoothly and accurately detect objects in real-time using a webcam. The text-to-speech feature is a valuable addition that helps those with visual impairments to understand and interact with their surroundings. Overall, Vision-Sehyog is a valuable tool that enhances accessibility and improves the lives of those with visual impairments
 
 ## Important Links
