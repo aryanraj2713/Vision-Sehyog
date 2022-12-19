@@ -7,7 +7,7 @@ Vision-Sehyog is a powerful and innovative application that uses the latest tech
 
 ## Important Links
 - [Demo Video]()
-- [Presentation]()
+- [Presentation](https://docs.google.com/presentation/d/1IiGEqIdyzqaZBCXgWD_toTl6UYc6lOhm38PJ0WJYYIQ/edit?usp=sharing)
 - [Download Model Weights](https://drive.google.com/drive/folders/12GyDNU2MHM7ydQY90cqc0nYUS0qGxpPl?usp=sharing)
 
 
@@ -36,11 +36,6 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
 
 
 ## React Web-App
--
--
--
--
--
 
 
 
@@ -122,7 +117,7 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
  <p>
  <br>
    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="28"/><br>
-   <br><strong>AIRoadGuard</strong> is under MIT License, Please Read the <strong>LICENSE</strong>
+   <br><strong>Vision-Sehyog</strong> is under MIT License, Please Read the <strong>LICENSE</strong>
   <p>
  </div>
 
