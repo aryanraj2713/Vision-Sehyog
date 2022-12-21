@@ -36,8 +36,11 @@ Overall, the YOLO architecture is a fast and effective solution for object detec
 
 
 ## React Web-App
+![1](https://user-images.githubusercontent.com/75358720/208850966-964de56e-967c-46f1-b9b2-4d2981eb79a1.png)
 
 
+
+![2](https://user-images.githubusercontent.com/75358720/208850997-4cedd1b0-55ac-4085-8c93-8633be9a0fe3.png)
 
 
 
